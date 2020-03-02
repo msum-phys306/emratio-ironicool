@@ -35,5 +35,3 @@ def Lorentz_force(q, v, B):
     return np.cross(q*v, B)
 
 # the voltage difference experience by the electron
-
-
